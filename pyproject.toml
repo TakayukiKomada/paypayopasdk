@@ -6,6 +6,8 @@ authors = ["TakayukiKomada <Takakoma.79@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+paypayopa = "^1.7"
+python-dotenv = "^0.20.0"
 
 [tool.poetry.dev-dependencies]
 
